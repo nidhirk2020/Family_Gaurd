@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FamilyGaurd20" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme -->
+
+    </style>
+</resources>
